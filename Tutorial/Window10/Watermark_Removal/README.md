@@ -6,4 +6,7 @@ and with some settings restriction.
 This tutorial shows several ways to remove the watermark.
 
 ##### 1. Disable Background
-![WINDOW10_WATERMARK_REMOVE_0](https://octodex.github.com/images/bannekat.png)
+![Window 10 Watermark Remove 0](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_1.png)
+![Window 10 Watermark Remove 1](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_2.png)
+![Window 10 Watermark Remove 2](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_3.png)
+![Window 10 Watermark Remove 3](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_4.png)
