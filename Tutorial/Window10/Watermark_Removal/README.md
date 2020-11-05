@@ -10,3 +10,8 @@ This tutorial shows several ways to remove the watermark.
 ![Window 10 Watermark Remove 1](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_2.png)
 ![Window 10 Watermark Remove 2](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_3.png)
 ![Window 10 Watermark Remove 3](https://github.com/ashzHax/Window/blob/main/Tutorial/Window10/Watermark_Removal/TUT_WIN10_4.png)
+
+
+
+
+ref: https://winaero.com/turn-off-desktop-background-image-windows-10/
